@@ -1,1 +1,0 @@
-# board-zerynth-wt8266_s2
