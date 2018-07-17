@@ -23,6 +23,7 @@
     "virtualizable":"WT8266_S2",
     "has_alter_ego":false,
     "uplink_reset": true,
+    "flash_erasable": true,
     "reset_time": 2000,
     "connection":{
         "baudrate":115200,
